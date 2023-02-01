@@ -3,7 +3,7 @@
 ##Topic: Covid-19 pandemic effect on worldwide economies
 
 Data sets: Currently saved in browser favorites bar 
-    Info I need:
+    Info I need: Think about countries that may not report correctly. How to control for this?
     * Covid death numbers by country
     * Country population
     * GDP - pre, during, and post pandemic
