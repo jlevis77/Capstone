@@ -1,6 +1,7 @@
-## Starting info for capstone
+#Starting info for capstone
 
-Topic: Covid-19 pandemic effect on worldwide economies
+##Topic: Covid-19 pandemic effect on worldwide economies
+
 Data sets: Currently saved in browser favorites bar 
     Info I need:
     * Covid death numbers by country
@@ -8,6 +9,7 @@ Data sets: Currently saved in browser favorites bar
     * GDP - pre, during, and post pandemic
     * Human development index
     * Other economic factors
+
 Question for topic: How has the covid-19 pandemic had an effect on economies worldwide?
     Sub question: What economies were affected the worst and the least?
 
